@@ -18,7 +18,7 @@
 
  <img src="./images/4.png" width=auto height=auto>
  <img src="./images/5.png" width=auto height=auto>
- <img src="./images/6.png" width="49%" height="25%"><img src="./images/7.png" width="49%" height="25%">
+ <img src="./images/6.png" width="49%" height="25%"> <img src="./images/7.png" width="48%" height="25%">
  
 
 ## dataset
